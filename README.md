@@ -1,1 +1,1 @@
-# StringerPrivacyPolicy
+# Stringer Privacy Policy
