@@ -1,3 +1,5 @@
+#Stringer Privacy Policy
+
 ## The Stringer Intentions
 
 At **Stringer** we **Pinky Swear** that we will not use your data for **EVIL**... We will only access your data to help you use the **Stringer App** with **Joy and Happiness**.
