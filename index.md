@@ -8,5 +8,5 @@ If you already have the **Stringer App** please return to the **Stringer App**, 
 
 And take comfort in knowing that we will do our best to keep your information and data locked in the figurative **VAULT**... and we will throw away the figurative **KEY**...
 
-###Stringer Management
+Stringer Management
 
