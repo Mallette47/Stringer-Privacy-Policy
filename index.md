@@ -1,4 +1,4 @@
-#Stringer Privacy Policy
+# Stringer Privacy Policy
 
 ## The Stringer Intentions
 
