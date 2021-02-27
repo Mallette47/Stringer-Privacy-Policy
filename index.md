@@ -1,23 +1,12 @@
-# Stringer Privacy Policy
+## Stringer Privacy Policy
 
-## Enter Privacy Policy Here
+We at Stringer pledge that we will not use your data for evil... We will only use your data to help you use our App with Joy and happiness.
 
-We will not use your data for evil...
+If you believe us please feel free to download the Stringer app for free, with comfort and piece of mind that all is well in the world.
 
-```markdown
-Syntax highlighted code block
+If you already have the Stringer App please return to the Stringer App and toggle the "Accept Terms toggle" on the Privacy Policy page to the on position.
 
-# Header 1
-## Header 2
-### Header 3
+With the knoledge that we will do our best to keep your information and data locked in a figurative "VAULT"... and we will through away the key...
 
-- Bulleted
-- List
+Management
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
