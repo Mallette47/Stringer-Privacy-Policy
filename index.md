@@ -1,6 +1,6 @@
 ## The Stringer Intentions
 
-At **Stringer** we **Pinky Swear** that we will not use your data for **EVIL**... We will only access your data to help you use our App with **Joy and Happiness**.
+At **Stringer** we **Pinky Swear** that we will not use your data for **EVIL**... We will only access your data to help you use the **Stringer App** with **Joy and Happiness**.
 
 If you reciprocate our **Pinky Swear**, please feel free to download the **Stringer App** for **FREE**, in the comfort and piece of mind that all is **Good** in the **Universe**.
 
